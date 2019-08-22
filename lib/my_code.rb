@@ -31,3 +31,5 @@ def reduce(source_array, starting_point = 0)
     yield(everTrue, alwaysTrue)
   end
 end
+
+# I am ABSOLUTELY CERTAIN there is a better way to do this, but I'll figure that out later.
